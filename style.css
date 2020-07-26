@@ -1,76 +1,75 @@
 .header__language-ru {
-     font-family: Montserrat, sans-serif;
-     font-style: normal;
-     font-weight: 500;
-     font-size: 20px;
-     line-height: 24px;
-  }
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
 
 .new-collection__title {
-     font-family: Montserrat, sans-serif;
-     font-style: normal;
-     font-weight: 500;
-     font-size: 30px;
-     line-height: 37px;
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 37px;
 }
 
 .new-collection__subtitle {
   font-family: Montserrat, sans-serif;
-     font-style: normal;
-     font-weight: bold;
-     font-size: 80px;
-     line-height: 82px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 82px;
 }
 
 .new-collection__description {
   font-family: Montserrat, sans-serif;
-     font-style: normal;
-     font-weight: normal;
-     font-size: 15px;
-     line-height: 21px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 21px;
 }
 
 .new-collection__farther {
   font-family: Montserrat, sans-serif;
-     font-style: normal;
-     font-weight: 500;
-     font-size: 13px;
-     line-height: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 0;
 }
 
 .new-collection__other {
   font-family: Montserrat, sans-serif;
-   font-style: normal;
+  font-style: normal;
 }
 
 .clutch__title {
-font-family: Montserrat, sans-serif;
-font-style: normal;
-font-weight: bold;
-font-size: 40px;
-line-height: 41px;
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 41px;
 }
 
 .total-look__title {
-font-family: Montserrat, sans-serif;
-font-style: normal;
-font-weight: bold;
-font-size: 40px;
-line-height: 41px;
-  }
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 41px;
+}
 
- .total-look__subtitle {
-font-family: Montserrat, sans-serif;
-font-style: normal;
-font-weight: bold;
-font-size: 16px;
-line-height: 16px;
- }
-
- .total-look__description {
-font-family: Montserrat,sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height: 21px;
- }
+.total-look__subtitle {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+}
+.total-look__description {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 21px;
+}
