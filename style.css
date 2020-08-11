@@ -119,10 +119,13 @@
   top: 26px;
 }
 
+.menu__line {
+  width: 35px;
+  height: 4px;
+}
+
 .menu__line:first-of-type {
   margin-bottom: 5px;
-  width: 36px;
-  height: 4px;
 }
 
 @media (max-width: 900px) {
