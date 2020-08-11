@@ -13,14 +13,14 @@
   width: 461px;
   height: 1800px;
   background: #000;
- }
+}
 
 .header__title {
   position: relative;
   width: 98px;
   height: 37px;
   margin: 36px 0 0 52px;
-  font-family: Montserrat;
+  font-family: Montserrat, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 30px;
@@ -121,9 +121,6 @@
 
 .menu__line:first-of-type {
   margin-bottom: 5px;
-}
-
-.menu__line {
   width: 36px;
   height: 4px;
 }
