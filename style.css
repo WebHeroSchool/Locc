@@ -40,26 +40,19 @@
 }
 
 .header__language-ru {
-  position: relative;
-  width: 31px;
-  height: 25px;
-  font-family: Montserrat, sans-serif;
-  font-style: normal;
-  font-weight: 500;
+  color: #fff;
+  background: url('img/lang__switch.png') right no-repeat;
+  padding: 0 18px 0 0;
   font-size: 20px;
   line-height: 24px;
-  color: #fff;
-  cursor: pointer;
+  height: 25px;
+  width: 31px;
 }
 
 .header__language-ru:: after {
   content: "";
+  color: #fff;
   position: absolute;
-  background-image: url(./img/Vector.png);
-  height: 9px;
-  width: 13px;
-  left: 40px;
-  top: 9px;
 }
 
 .header__language-ru: hover {
@@ -80,6 +73,58 @@
   background: #696969;
 }
 
+.inst {
+  background: #fff url('img/inst_cir.png') center no-repeat;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+  left: 52px;
+  top: 816px;
+  display: inline-block;
+}
+
+.inst:hover {
+  background: linear-gradient(to bottom, #833ab4, #c13584, #f77737, #ffdc80);
+}
+
+.vk {
+  background: #fff url('img/vk.png') center no-repeat;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+  left: 107px;
+  top: 816px;
+  display: inline-block;
+}
+
+.vk:hover {
+  background: #5b88bd url('img/vk.png') center no-repeat;
+}
+
+.fb {
+  background: #fff url('img/fb.png') center no-repeat;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+  left: 162px;
+  top: 816px;
+  display: inline-block;
+}
+
+.fb:hover {
+  background: #4267b2 url('img/fb.png') center no-repeat;
+}
+
+.block {
+  position: absolute;
+  top: 168px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1500px;
+}
+
 .menu__item {
   list-style-type: none;
   padding: 0;
@@ -92,6 +137,7 @@
   height: 3px;
   background: #000;
 }
+
 
 @media (min-width: 992px) {
   .header__menu {
