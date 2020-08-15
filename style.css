@@ -138,7 +138,7 @@
 
 .header__burger {
   right: 0;
-    margin-left: auto;
+  margin-left: auto;
   display: flex;
   position: absolute;
   width: 92px;
@@ -149,7 +149,7 @@
 .header__burger > span,
 .header__burger > span::after {
   display: block;
- position: absolute;
+  position: absolute;
   width: 34.7px;
   height: 3.48px;
   margin-left: 28px;
