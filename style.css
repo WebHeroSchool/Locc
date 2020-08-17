@@ -357,12 +357,12 @@
     display: none;
 }
 
-.header__language {
+  .header__language {
     display: none;
 }
 
-.header::before {
-  display: none;
+  .header::before {
+    display: none;
 }
 
   .new-collection__girl {
