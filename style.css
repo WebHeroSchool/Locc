@@ -169,7 +169,7 @@
     display: flex;
     min-height: 92px;
     min-width: 92px;
-}
+ }
 
   .header__menu:hover {
     background: #696969;
@@ -370,7 +370,7 @@
 }
 
   .social-networks {
-  display: none;
+    display: none;
 }
 
   .figure {
