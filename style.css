@@ -366,7 +366,7 @@
 }
 
   .new-collection__girl {
-  display: none;
+    display: none;
 }
 
   .social-networks {
@@ -386,7 +386,7 @@
     font-size: 30px;
     line-height: 37px;
     text-align: center;
-    letter-spacing: 0.07em;
+    letter-spacing: .07em;
     color: #000;
 }
 
