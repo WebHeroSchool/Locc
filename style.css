@@ -169,7 +169,7 @@
     display: flex;
     min-height: 92px;
     min-width: 92px;
- }
+}
 
   .header__menu:hover {
     background: #696969;
@@ -374,7 +374,7 @@
 }
 
   .figure {
-  display: none;
+    display: none;
 }
 
   .header__title {
