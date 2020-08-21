@@ -171,11 +171,6 @@
     min-width: 92px;
 }
 
-  .header__menu:hover {
-    background: #696969;
-      }
-}
-
 .menu__link {
   color: navy;
   font-size: 25px;
