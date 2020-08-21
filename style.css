@@ -169,6 +169,7 @@
     display: flex;
     min-height: 92px;
     min-width: 92px;
+  }
 }
 
 .menu__link {
@@ -191,7 +192,6 @@
 
 .menu__line:first-of-type {
   margin-bottom: 5px;
-  }
 }
 
 @media (max-width: 900px) {
