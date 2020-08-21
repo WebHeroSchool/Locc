@@ -198,10 +198,7 @@
   .header__menu {
     width: 100%;
     display: none;
-}
-
-  .header__menu:hover {
-    background: #696969;
+  }
 }
 
   .header__burger {
