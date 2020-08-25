@@ -350,6 +350,23 @@
     display: none;
 }
 
+.body {
+      width: 565px;
+      max-width: 565px;
+    }
+
+.new-collection__description {
+      display: none;
+    }
+
+.new-collection__other {
+      display: none;
+    }
+
+.new-collection__farther {
+      display: none;
+    }
+
   .header__language {
     display: none;
 }
@@ -390,6 +407,8 @@
   .new-collection {
     background-image: url(./img/girl_mobile.png);
     background-repeat: no-repeat;
+    background-size: 100%;
+    width: 565px;
     min-width: 565px;
     height: 583px;
 }
@@ -399,7 +418,7 @@
     width: 297px;
     height: 103px;
     left: 26px;
-    top: 289px;
+    top: 550px;
     font-weight: bold;
     font-size: 50px;
     line-height: 51px;
@@ -415,21 +434,4 @@
     top: 115px;
     cursor: pointer;
   }
-
-.body {
-      width: 565px;
-      max-width: 565px;
-    }
-
-.new-collection__description {
-      display: none;
-    }
-
-.new-collection__other {
-      display: none;
-    }
-
-.new-collection__farther {
-      display: none;
-    }
 }
