@@ -146,7 +146,7 @@
   width: 92px;
   height: 92px;
   background-color: #ededed;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .header__burger > span,
@@ -350,22 +350,22 @@
     display: none;
 }
 
-.body {
-      width: 565px;
-      max-width: 565px;
-    }
+  .body {
+    width: 565px;
+    max-width: 565px;
+  }
 
-.new-collection__description {
-      display: none;
-    }
+  .new-collection__description {
+    display: none;
+  }
 
-.new-collection__other {
-      display: none;
-    }
+  .new-collection__other {
+    display: none;
+  }
 
-.new-collection__farther {
+  .new-collection__farther {
       display: none;
-    }
+  }
 
   .header__language {
     display: none;
